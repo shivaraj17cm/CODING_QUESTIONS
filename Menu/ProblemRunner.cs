@@ -23,9 +23,9 @@ namespace CODING_QUESTIONS.Menu
                 new PalindromeStringProblem(),
                 new LongestSubstringWithoutRepeatingProblem(),
                 new ArrayRotationProblem(),
-                new PrimeNumberProblem()
+                new PrimeNumberProblem(),
+                new IsAnagramTugofWarASCII()
             };
-
         }
 
         public void ShowMenu()
