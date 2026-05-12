@@ -1,4 +1,4 @@
-﻿using CODING_QUESTIONS.Problems;
+using CODING_QUESTIONS.Problems;
 
 namespace CODING_QUESTIONS.Menu
 {
@@ -24,7 +24,9 @@ namespace CODING_QUESTIONS.Menu
                 new LongestSubstringWithoutRepeatingProblem(),
                 new ArrayRotationProblem(),
                 new PrimeNumberProblem(),
-                new IsAnagramTugofWarASCII()
+                new IsAnagramTugofWarASCII(),
+                new ContainerWithMostWaterProblem(),
+                new ValidParenthesesProblem()
             };
         }
 
